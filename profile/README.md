@@ -8,4 +8,4 @@
 * 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * 🖤 we are not emo
 * ⚰️ rip Michał „Toxic Fucker” Kasprzak 1985-2020
-* polecam mój [Kalkulator Stanisław Jelnicki](https://jelnislaw.web.app/calculator)
+* 🖩 polecam mój [Kalkulator Stanisław Jelnicki](https://jelnislaw.web.app/calculator)
